@@ -1,2 +1,7 @@
 config/config.prod.yaml
 config/pwd.yaml
+
+__pycache__
+.vscode
+
+docker-compose.yaml
