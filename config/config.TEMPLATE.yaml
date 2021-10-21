@@ -2,3 +2,8 @@ homewizard:
   p1:
     url: http://192.168.1.1 #Replace
     url_path: /api/v1/data
+database:
+  db:
+    POSTGRES_DB: 
+    POSTGRES_USER: 
+    POSTGRES_PASSWORD: 

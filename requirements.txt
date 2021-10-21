@@ -1,0 +1,6 @@
+requests
+psycopg2-binary
+sqlalchemy
+django
+django-chartjs
+pyyaml
